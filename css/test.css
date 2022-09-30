@@ -1,0 +1,9 @@
+body{
+    width: 800px;
+    background: rgb(105, 7, 7) url('../images/body_bg.gif') repeat-x top;
+    font-family: 'Courier New' , Courier , monospace;
+    font-size: 1em;
+    color: #333;
+    margin: 50px;
+    padding: 50px;
+}
