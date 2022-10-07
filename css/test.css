@@ -49,7 +49,9 @@ header, #masthead{
 }
 
 article #LOGO{
+    padding: 10px;
     background: #ddd;
+    text-align: center;
 }
 
 #content{
@@ -57,6 +59,12 @@ article #LOGO{
    margin: 20px 0px;
    padding: 10px;
    float: right;
+}
+#content ul{
+    list-style:disc;
+}
+#content li{
+    color:#db001f;
 }
 
 #sidebar{
